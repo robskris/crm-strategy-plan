@@ -17,5 +17,8 @@ To design a structured CRM approach that strengthens customer relationships and 
 - Customer analysis
 - Marketing frameworks
 
+## Full Plan
+[View CRM Strategy Plan](crm-strategy-plan.pdf)
+
 ## Status
 Completed
